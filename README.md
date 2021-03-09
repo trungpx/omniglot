@@ -1,6 +1,6 @@
 # Omniglot
 ## dataset for few shot learning
-Refer from repo: https://github.com/cnielly/prototypical-networks-omniglot
+Refer from [this repo!](https://github.com/cnielly/prototypical-networks-omniglot)
 
 Data train download:
 wget https://github.com/brendenlake/omniglot/raw/master/python/images_background.zip
@@ -14,3 +14,8 @@ Pytroch 1.7, python 3.8
 
 Run to train and test: 
 CUDA_VISIBLE_DEVICES=0 python protonet.py
+
+      
+        
+      
+    
