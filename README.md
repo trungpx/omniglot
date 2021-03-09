@@ -5,6 +5,7 @@ Refer from [this repo!](https://github.com/cnielly/prototypical-networks-omniglo
 Data train download:
 
 > wget https://github.com/brendenlake/omniglot/raw/master/python/images_background.zip
+
 Data test download:
 
 > wget https://github.com/brendenlake/omniglot/raw/master/python/images_evaluation.zip
