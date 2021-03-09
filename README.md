@@ -8,3 +8,6 @@ Data test download:
 wget https://github.com/brendenlake/omniglot/raw/master/python/images_evaluation.zip
 
 The Omniglot dataset is taken on the official GitHub repository: https://github.com/brendenlake/omniglot
+
+Run to train and test: 
+CUDA_VISIBLE_DEVICES=0 python protonet.py
