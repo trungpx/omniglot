@@ -16,7 +16,7 @@ The Omniglot dataset is taken on the official GitHub repository: https://github.
 Pytroch 1.7, python 3.8
 
 Run to train and test: 
-CUDA_VISIBLE_DEVICES=0 python protonet.py
+> CUDA_VISIBLE_DEVICES=0 python protonet.py
 
       
         
