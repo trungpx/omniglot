@@ -18,7 +18,4 @@ Pytroch 1.7, python 3.8
 Run to train and test: 
 > CUDA_VISIBLE_DEVICES=0 python protonet.py
 
-      
-        
-      
-    
+## It took about ~30 minutes to train
